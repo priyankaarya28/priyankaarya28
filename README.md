@@ -6,8 +6,7 @@
 Welcome to my GitHub! I'm passionate about building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
 🔹 **About Me**  
-- 💻 I specialize in **full stack developer** (e.g., html.css,JavaScript,  Node.js, MongoDB).  
-- 🛠️ Currently working on ****.  
+- 💻 I specialize in **full stack developer** (e.g., html.css,JavaScript,  Node.js, MongoDB).    
 - 📚 Always learning **[New Tech/Skills]** (e.g.SQL, DevOps).  
   
 
