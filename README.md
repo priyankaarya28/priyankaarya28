@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**priyankaarya28/priyankaarya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- # Hi there, I'm priyanka arya 👋
 
-Here are some ideas to get you started:
+🚀 **Web Engineer | Full-Stack Developer | Tech Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm passionate about building scalable web applications, exploring new technologies, and contributing to open-source projects.
+
+🔹 **About Me**  
+- 💻 I specialize in **full stack developer** (e.g., html.css,JavaScript,  Node.js, MongoDB).  
+- 🛠️ Currently working on ****.  
+- 📚 Always learning **[New Tech/Skills]** (e.g.SQL, DevOps).  
+  
+
+🔹 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-arya-a50ba126a/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://https://github.com/priyankaarya28)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=Firefox)](https://priyankaarya28.github.io/portfolio/)  
+
+📫 Reach me at: **priyanka.arya00001@gmail.com**  
+
+---
+
+⚡ **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+Thanks for stopping by! 😊 Happy coding! 🚀
+
+
+
